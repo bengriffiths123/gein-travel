@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Creepster&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 #background {
-    background-color: #279AF1;
+    background-color: #2F332D;
 }
 
 #navbar {
-    background-color: #070600;
+    background-color: #1B1E18;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,53 +33,54 @@
 #navlink1 {
     margin-right: 1vw;
     text-decoration: none;
-    color: #F7F7FF;
+    color: #FFFDFA;
 }
 
 #navlink2 {
     text-decoration: none;
-    color: #F7F7FF;
+    color: #FFFDFA;
 }
 
 #navlink1:hover {
-    color: #EA526F;
+    color: #D51010;
 }
 
 #navlink2:hover {
-    color: #EA526F;
+    color: #D51010;
 }
 
 #japsect1 {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #070600;
     text-align: center;
 }
 
 #japheader {
     font-size: 10vw;
+    color: #1B1E18;
 }
 
 #japara {
     font-size: 3vw;
+    color: #FFFDFA;
 }
 
 #row {
     display: flex;
-    text-align: center;
+    justify-content: center;
 }
 
 #column {
     flex: 33.33% ;
-    padding: 5px;
+    padding: 1vw;
 }
 
 #footer {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-    background-color: #070600;
+    background-color: #1B1E18;
     display: flex;
     justify-content: space-evenly;
     font-size: 2vw;
@@ -88,37 +89,37 @@
 }
 
 #ftlink1 {
-    color: #23B5D3;
+    color: #FFFDFA;
     text-decoration: none;
 }
 
 #ftlink2 {
-    color: #23B5D3;
+    color: #FFFDFA;
     text-decoration: none;
 }
 
 #ftlink3 {
-    color: #23B5D3;
+    color: #FFFDFA;
     text-decoration: none;
 }
 
 #ftlink4 {
-    color: #23B5D3;
+    color: #FFFDFA;
     text-decoration: none;
 }
 
 #ftlink1:hover {
-    color: #F7F7FF;
+    color: #D51010;
 }
 
 #ftlink2:hover {
-    color: #F7F7FF;
+    color: #D51010;
 }
 
 #ftlink3:hover {
-    color: #F7F7FF;
+    color: #D51010;
 }
 
 #ftlink4:hover {
-    color: #F7F7FF;
+    color: #D51010;
 }
